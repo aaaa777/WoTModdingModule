@@ -1,0 +1,26 @@
+#path is extracted from sys.path with replserver
+#[u'scripts/client', u'scripts/client_common', u'scripts/game_objects', u'packages/scripts/client', u'packages/scripts/common', u'scripts/common', u'scripts/common/Lib', u'packages/scripts/common/site-packages', u'packages/scripts/common/site-packages/backports.functools_lru_cache-1.4', u'packages/scripts/common/site-packages/', u'packages/scripts/common/site-packages/bitstring', u'packages/scripts/common/site-packages/enum34-1.1.6', u'packages/scripts/common/site-packages/typing-3.6.2', u'scripts/common/site-packages', u'scripts/common/site-packages/backports.functools_lru_cache-1.4', u'scripts/common/site-packages/', u'scripts/common/site-packages/bitstring', u'scripts/common/site-packages/enum34-1.1.6', u'scripts/common/site-packages/typing-3.6.2']
+
+lib/source/res/scripts/client
+lib/source/res/scripts/client_common
+lib/source/res/scripts/game_objects
+
+#packages/scripts/client
+#packages/scripts/common
+
+lib/source/res/scripts/common
+lib/source/res/scripts/common/Lib
+
+#packages/scripts/common/site-packages
+#packages/scripts/common/site-packages/backports.functools_lru_cache-1.4
+#packages/scripts/common/site-packages/
+#packages/scripts/common/site-packages/bitstring
+#packages/scripts/common/site-packages/enum34-1.1.6
+#packages/scripts/common/site-packages/typing-3.6.2
+
+lib/source/res/scripts/common/site-packages
+lib/source/res/scripts/common/site-packages/backports.functools_lru_cache-1.4
+lib/source/res/scripts/common/site-packages/
+lib/source/res/scripts/common/site-packages/bitstring
+lib/source/res/scripts/common/site-packages/enum34-1.1.6
+lib/source/res/scripts/common/site-packages/typing-3.6.2
